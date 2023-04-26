@@ -62,6 +62,8 @@ O período da tarde é bastante significativo em número de pedidos.
 
 - Os analistas analisou o panorama do tempo de entrega  entre 2016 e 2018, e descobriu que, A empresa melhorou sua logística e reduziu considerávelmente o tempo de entrega ao longo dos anos, **em 2016 era acima de 16 dias, em 2017 reduziu para 12 dias , e em 2018  cerca de 9 dias**. Consequentemente, em 2017 e 2018 as avaliações melhoraram com relação à 2016.
 
+- E por fim, os analistas queriam saber quais os produtos mais vendidos entre os top 10,e descobriram que:**Cama_mesa_banho, beleza_saùde, acessórios_informática , são os 3 que mais se destacam**.
+
 
 ## CONSIDERAÇÕES FINAIS
 Pedro e sua equipe de negócio agora pode tomar decisões estratégicas com base em informações analíticas geram valor ao negócio.
@@ -84,4 +86,4 @@ Com base nas informação obtidas pelas análises, alguns projetos futuros compl
 - Projeto de modelagem preditiva para prever o churn de clientes;
 - Projeto de modelagem preditiva para prever a receita futuros dos principais clientes;
 - Projeto de modelagem preditiva para prever o tempo de entrega dos produtos;
-- E por fim, os analistas queriam saber quais os produtos mais vendidos entre os top 10,e descobriram que:**Cama_mesa_banho, beleza_saùde, acessórios_informática , são os 3 que mais se destacam**.
+
