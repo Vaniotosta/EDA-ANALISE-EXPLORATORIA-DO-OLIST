@@ -32,8 +32,7 @@ Estes são dados comerciais reais, foram anonimizados e as referências às empr
 - Quais vendedores com melhores e piores prazo de entrega?
 
 # STORYTELLING COM OS DADOS
-
-Pedro  gerencia o setor de e-commerce do grupo Olist, e acionou seus analistas e cientistas de dados para que fizessem um projeto que o ajudasse a tomar as melhores decisões estratégicas de negócios. Se sentindo perdido deixou nas mãos do seu time dados a confiança em buscar informações valiosas que podessem te nortear para uma decisão de negócio mais acertiva.Seus analistas dentro do contexto do negócio, resolveram responder algumas perguntas com base nos dados da empresa.
+Pedro gerencia o setor de e-commerce do grupo Olist, e acionou seus analistas e cientistas de dados para que fizessem um projeto que o ajudasse a tomar as melhores decisões estratégicas de negócios. Se sentindo perdido, deixou nas mãos do seu time de dados a confiança em buscar informações valiosas que podessem te nortear para uma decisão de negócio mais acertiva.Seus analistas dentro do contexto do negócio, resolveram responder algumas perguntas com base nos dados da empresa.
 
 Sendo assim, os analistas descobriram algumas informações relevantes como:
 
